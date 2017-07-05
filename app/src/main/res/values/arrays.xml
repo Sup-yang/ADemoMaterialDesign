@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="dialog_choice_array" >
+        <item>bew york</item>
+        <item>lod </item>
+        <item>suuoe</item>
+        <item>自己</item>
+        <item>的的片</item>
+    </string-array>
+</resources>
